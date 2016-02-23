@@ -572,7 +572,7 @@ typedef struct
     self.leftView.viewController = self.leftViewController;
     self.frontView.viewController = self.frontViewController;
     
-    self.frontView.shadow = YES;
+//    self.frontView.shadow = YES;
     
     self.leftView.hidden = YES;
     self.rightView.hidden = YES;
